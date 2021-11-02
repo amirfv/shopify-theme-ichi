@@ -1,4 +1,5 @@
 {
+	"layout": "theme.first",
 	"sections": {
 		"image_banner": {
 			"type": "image-banner",
